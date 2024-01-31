@@ -1,0 +1,1056 @@
+{
+    "sections": [
+        {
+            "keyword": "PART",
+            "subsections": {
+                "sections": [
+                    {
+                        "keyword": "PREFACE:",
+                        "occurrences": [
+                            {
+                                "name": "PREFACE: 1",
+                                "start": 1565,
+                                "end": 1575
+                            },
+                            {
+                                "name": "PREFACE: 2",
+                                "start": 3514,
+                                "end": 3569
+                            },
+                            {
+                                "name": "PREFACE: 3",
+                                "start": 6040,
+                                "end": 6173
+                            },
+                            {
+                                "name": "PREFACE: 4",
+                                "start": 8480,
+                                "end": 8603
+                            }
+                        ]
+                    },
+                    {
+                        "keyword": "DEFINITIONS:",
+                        "subsections": {
+                            "sections": [
+                                {
+                                    "regex": "^[IVXLCDM]+\\.",
+                                    "name": "Numeral",
+                                    "subsections": {
+                                        "sections": [
+                                            {
+                                                "keyword": "Explanation--",
+                                                "occurrences": [
+                                                    {
+                                                        "name": "Explanation-- 1",
+                                                        "start": 31,
+                                                        "end": 47
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 2",
+                                                        "start": 48,
+                                                        "end": 5505
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 3",
+                                                        "start": 5506,
+                                                        "end": 5528
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 4",
+                                                        "start": 5529,
+                                                        "end": 5565
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 5",
+                                                        "start": 5566,
+                                                        "end": 5587
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 6",
+                                                        "start": 5588,
+                                                        "end": 5599
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 7",
+                                                        "start": 5600,
+                                                        "end": 5609
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 8",
+                                                        "start": 5610,
+                                                        "end": 5623
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 9",
+                                                        "start": 5624,
+                                                        "end": 5642
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 10",
+                                                        "start": 5643,
+                                                        "end": 5668
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 11",
+                                                        "start": 5669,
+                                                        "end": 5678
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 12",
+                                                        "start": 5679,
+                                                        "end": 5693
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 13",
+                                                        "start": 5694,
+                                                        "end": 5704
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 14",
+                                                        "start": 5705,
+                                                        "end": 5712
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 15",
+                                                        "start": 5713,
+                                                        "end": 5724
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 16",
+                                                        "start": 5725,
+                                                        "end": 5735
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 17",
+                                                        "start": 5736,
+                                                        "end": 5757
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 18",
+                                                        "start": 5758,
+                                                        "end": 5793
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 19",
+                                                        "start": 5794,
+                                                        "end": 5817
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 20",
+                                                        "start": 5818,
+                                                        "end": 5836
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 21",
+                                                        "start": 5837,
+                                                        "end": 5855
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 22",
+                                                        "start": 5856,
+                                                        "end": 5886
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 23",
+                                                        "start": 5887,
+                                                        "end": 5899
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 24",
+                                                        "start": 5900,
+                                                        "end": 5909
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 25",
+                                                        "start": 5910,
+                                                        "end": 5928
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 26",
+                                                        "start": 5929,
+                                                        "end": 5946
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 27",
+                                                        "start": 5947,
+                                                        "end": 5998
+                                                    },
+                                                    {
+                                                        "name": "Explanation-- 28",
+                                                        "start": 5999,
+                                                        "end": 9685
+                                                    }
+                                                ]
+                                            }
+                                        ],
+                                        "lastUpdated": "Explanation--"
+                                    },
+                                    "occurrences": [
+                                        {
+                                            "name": "Numeral 1",
+                                            "start": 6,
+                                            "end": 9
+                                        },
+                                        {
+                                            "name": "Numeral 2",
+                                            "start": 10,
+                                            "end": 15
+                                        },
+                                        {
+                                            "name": "Numeral 3",
+                                            "start": 16,
+                                            "end": 19
+                                        },
+                                        {
+                                            "name": "Numeral 4",
+                                            "start": 20,
+                                            "end": 22
+                                        },
+                                        {
+                                            "name": "Numeral 5",
+                                            "start": 23,
+                                            "end": 26
+                                        },
+                                        {
+                                            "name": "Numeral 6",
+                                            "start": 27,
+                                            "end": 36
+                                        },
+                                        {
+                                            "name": "Numeral 7",
+                                            "start": 37,
+                                            "end": 43
+                                        },
+                                        {
+                                            "name": "Numeral 8",
+                                            "start": 44,
+                                            "end": 54
+                                        },
+                                        {
+                                            "name": "Numeral 9",
+                                            "start": 55,
+                                            "end": 57
+                                        },
+                                        {
+                                            "name": "Numeral 10",
+                                            "start": 58,
+                                            "end": 60
+                                        },
+                                        {
+                                            "name": "Numeral 11",
+                                            "start": 61,
+                                            "end": 64
+                                        },
+                                        {
+                                            "name": "Numeral 12",
+                                            "start": 65,
+                                            "end": 67
+                                        },
+                                        {
+                                            "name": "Numeral 13",
+                                            "start": 68,
+                                            "end": 71
+                                        },
+                                        {
+                                            "name": "Numeral 14",
+                                            "start": 72,
+                                            "end": 73
+                                        },
+                                        {
+                                            "name": "Numeral 15",
+                                            "start": 74,
+                                            "end": 1577
+                                        },
+                                        {
+                                            "name": "Numeral 16",
+                                            "start": 1578,
+                                            "end": 1582
+                                        },
+                                        {
+                                            "name": "Numeral 17",
+                                            "start": 1583,
+                                            "end": 1588
+                                        },
+                                        {
+                                            "name": "Numeral 18",
+                                            "start": 1589,
+                                            "end": 1596
+                                        },
+                                        {
+                                            "name": "Numeral 19",
+                                            "start": 1597,
+                                            "end": 1604
+                                        },
+                                        {
+                                            "name": "Numeral 20",
+                                            "start": 1605,
+                                            "end": 1612
+                                        },
+                                        {
+                                            "name": "Numeral 21",
+                                            "start": 1613,
+                                            "end": 1614
+                                        },
+                                        {
+                                            "name": "Numeral 22",
+                                            "start": 1615,
+                                            "end": 1623
+                                        },
+                                        {
+                                            "name": "Numeral 23",
+                                            "start": 1624,
+                                            "end": 1627
+                                        },
+                                        {
+                                            "name": "Numeral 24",
+                                            "start": 1628,
+                                            "end": 1629
+                                        },
+                                        {
+                                            "name": "Numeral 25",
+                                            "start": 1630,
+                                            "end": 1634
+                                        },
+                                        {
+                                            "name": "Numeral 26",
+                                            "start": 1635,
+                                            "end": 1636
+                                        },
+                                        {
+                                            "name": "Numeral 27",
+                                            "start": 1637,
+                                            "end": 2234
+                                        },
+                                        {
+                                            "name": "Numeral 28",
+                                            "start": 2235,
+                                            "end": 2238
+                                        },
+                                        {
+                                            "name": "Numeral 29",
+                                            "start": 2239,
+                                            "end": 2241
+                                        },
+                                        {
+                                            "name": "Numeral 30",
+                                            "start": 2242,
+                                            "end": 2245
+                                        },
+                                        {
+                                            "name": "Numeral 31",
+                                            "start": 2246,
+                                            "end": 2249
+                                        },
+                                        {
+                                            "name": "Numeral 32",
+                                            "start": 2250,
+                                            "end": 2254
+                                        },
+                                        {
+                                            "name": "Numeral 33",
+                                            "start": 2255,
+                                            "end": 2445
+                                        },
+                                        {
+                                            "name": "Numeral 34",
+                                            "start": 2446,
+                                            "end": 2616
+                                        },
+                                        {
+                                            "name": "Numeral 35",
+                                            "start": 2617,
+                                            "end": 2873
+                                        },
+                                        {
+                                            "name": "Numeral 36",
+                                            "start": 2874,
+                                            "end": 3069
+                                        },
+                                        {
+                                            "name": "Numeral 37",
+                                            "start": 3070,
+                                            "end": 3571
+                                        },
+                                        {
+                                            "name": "Numeral 38",
+                                            "start": 3572,
+                                            "end": 3576
+                                        },
+                                        {
+                                            "name": "Numeral 39",
+                                            "start": 3577,
+                                            "end": 3585
+                                        },
+                                        {
+                                            "name": "Numeral 40",
+                                            "start": 3586,
+                                            "end": 3596
+                                        },
+                                        {
+                                            "name": "Numeral 41",
+                                            "start": 3597,
+                                            "end": 3604
+                                        },
+                                        {
+                                            "name": "Numeral 42",
+                                            "start": 3605,
+                                            "end": 3668
+                                        },
+                                        {
+                                            "name": "Numeral 43",
+                                            "start": 3669,
+                                            "end": 5465
+                                        },
+                                        {
+                                            "name": "Numeral 44",
+                                            "start": 5466,
+                                            "end": 5499
+                                        },
+                                        {
+                                            "name": "Numeral 45",
+                                            "start": 5500,
+                                            "end": 5502
+                                        },
+                                        {
+                                            "name": "Numeral 46",
+                                            "start": 5503,
+                                            "end": 5523
+                                        },
+                                        {
+                                            "name": "Numeral 47",
+                                            "start": 5524,
+                                            "end": 5554
+                                        },
+                                        {
+                                            "name": "Numeral 48",
+                                            "start": 5555,
+                                            "end": 5557
+                                        },
+                                        {
+                                            "name": "Numeral 49",
+                                            "start": 5558,
+                                            "end": 5562
+                                        },
+                                        {
+                                            "name": "Numeral 50",
+                                            "start": 5563,
+                                            "end": 5584
+                                        },
+                                        {
+                                            "name": "Numeral 51",
+                                            "start": 5585,
+                                            "end": 5591
+                                        },
+                                        {
+                                            "name": "Numeral 52",
+                                            "start": 5592,
+                                            "end": 5594
+                                        },
+                                        {
+                                            "name": "Numeral 53",
+                                            "start": 5595,
+                                            "end": 5597
+                                        },
+                                        {
+                                            "name": "Numeral 54",
+                                            "start": 5598,
+                                            "end": 5605
+                                        },
+                                        {
+                                            "name": "Numeral 55",
+                                            "start": 5606,
+                                            "end": 5615
+                                        },
+                                        {
+                                            "name": "Numeral 56",
+                                            "start": 5616,
+                                            "end": 5619
+                                        },
+                                        {
+                                            "name": "Numeral 57",
+                                            "start": 5620,
+                                            "end": 5636
+                                        },
+                                        {
+                                            "name": "Numeral 58",
+                                            "start": 5637,
+                                            "end": 5639
+                                        },
+                                        {
+                                            "name": "Numeral 59",
+                                            "start": 5640,
+                                            "end": 5658
+                                        },
+                                        {
+                                            "name": "Numeral 60",
+                                            "start": 5659,
+                                            "end": 5661
+                                        },
+                                        {
+                                            "name": "Numeral 61",
+                                            "start": 5662,
+                                            "end": 5664
+                                        },
+                                        {
+                                            "name": "Numeral 62",
+                                            "start": 5665,
+                                            "end": 5666
+                                        },
+                                        {
+                                            "name": "Numeral 63",
+                                            "start": 5667,
+                                            "end": 5673
+                                        },
+                                        {
+                                            "name": "Numeral 64",
+                                            "start": 5674,
+                                            "end": 5675
+                                        },
+                                        {
+                                            "name": "Numeral 65",
+                                            "start": 5676,
+                                            "end": 5687
+                                        },
+                                        {
+                                            "name": "Numeral 66",
+                                            "start": 5688,
+                                            "end": 5690
+                                        },
+                                        {
+                                            "name": "Numeral 67",
+                                            "start": 5691,
+                                            "end": 5700
+                                        },
+                                        {
+                                            "name": "Numeral 68",
+                                            "start": 5701,
+                                            "end": 5708
+                                        },
+                                        {
+                                            "name": "Numeral 69",
+                                            "start": 5709,
+                                            "end": 5718
+                                        },
+                                        {
+                                            "name": "Numeral 70",
+                                            "start": 5719,
+                                            "end": 5721
+                                        },
+                                        {
+                                            "name": "Numeral 71",
+                                            "start": 5722,
+                                            "end": 5731
+                                        },
+                                        {
+                                            "name": "Numeral 72",
+                                            "start": 5732,
+                                            "end": 5736
+                                        },
+                                        {
+                                            "name": "Numeral 73",
+                                            "start": 5737,
+                                            "end": 5754
+                                        },
+                                        {
+                                            "name": "Numeral 74",
+                                            "start": 5755,
+                                            "end": 5790
+                                        },
+                                        {
+                                            "name": "Numeral 75",
+                                            "start": 5791,
+                                            "end": 5809
+                                        },
+                                        {
+                                            "name": "Numeral 76",
+                                            "start": 5810,
+                                            "end": 5814
+                                        },
+                                        {
+                                            "name": "Numeral 77",
+                                            "start": 5815,
+                                            "end": 5831
+                                        },
+                                        {
+                                            "name": "Numeral 78",
+                                            "start": 5832,
+                                            "end": 5852
+                                        },
+                                        {
+                                            "name": "Numeral 79",
+                                            "start": 5853,
+                                            "end": 5868
+                                        },
+                                        {
+                                            "name": "Numeral 80",
+                                            "start": 5869,
+                                            "end": 5873
+                                        },
+                                        {
+                                            "name": "Numeral 81",
+                                            "start": 5874,
+                                            "end": 5876
+                                        },
+                                        {
+                                            "name": "Numeral 82",
+                                            "start": 5877,
+                                            "end": 5879
+                                        },
+                                        {
+                                            "name": "Numeral 83",
+                                            "start": 5880,
+                                            "end": 5883
+                                        },
+                                        {
+                                            "name": "Numeral 84",
+                                            "start": 5884,
+                                            "end": 5890
+                                        },
+                                        {
+                                            "name": "Numeral 85",
+                                            "start": 5891,
+                                            "end": 5893
+                                        },
+                                        {
+                                            "name": "Numeral 86",
+                                            "start": 5894,
+                                            "end": 5896
+                                        },
+                                        {
+                                            "name": "Numeral 87",
+                                            "start": 5897,
+                                            "end": 5906
+                                        },
+                                        {
+                                            "name": "Numeral 88",
+                                            "start": 5907,
+                                            "end": 5919
+                                        },
+                                        {
+                                            "name": "Numeral 89",
+                                            "start": 5920,
+                                            "end": 5922
+                                        },
+                                        {
+                                            "name": "Numeral 90",
+                                            "start": 5923,
+                                            "end": 5926
+                                        },
+                                        {
+                                            "name": "Numeral 91",
+                                            "start": 5927,
+                                            "end": 5936
+                                        },
+                                        {
+                                            "name": "Numeral 92",
+                                            "start": 5937,
+                                            "end": 5939
+                                        },
+                                        {
+                                            "name": "Numeral 93",
+                                            "start": 5940,
+                                            "end": 5941
+                                        },
+                                        {
+                                            "name": "Numeral 94",
+                                            "start": 5942,
+                                            "end": 5943
+                                        },
+                                        {
+                                            "name": "Numeral 95",
+                                            "start": 5944,
+                                            "end": 5948
+                                        },
+                                        {
+                                            "name": "Numeral 96",
+                                            "start": 5949,
+                                            "end": 6175
+                                        },
+                                        {
+                                            "name": "Numeral 97",
+                                            "start": 6176,
+                                            "end": 6178
+                                        },
+                                        {
+                                            "name": "Numeral 98",
+                                            "start": 6179,
+                                            "end": 6185
+                                        },
+                                        {
+                                            "name": "Numeral 99",
+                                            "start": 6186,
+                                            "end": 6189
+                                        },
+                                        {
+                                            "name": "Numeral 100",
+                                            "start": 6190,
+                                            "end": 6197
+                                        },
+                                        {
+                                            "name": "Numeral 101",
+                                            "start": 6198,
+                                            "end": 6202
+                                        },
+                                        {
+                                            "name": "Numeral 102",
+                                            "start": 6203,
+                                            "end": 6217
+                                        },
+                                        {
+                                            "name": "Numeral 103",
+                                            "start": 6218,
+                                            "end": 6220
+                                        },
+                                        {
+                                            "name": "Numeral 104",
+                                            "start": 6221,
+                                            "end": 6228
+                                        },
+                                        {
+                                            "name": "Numeral 105",
+                                            "start": 6229,
+                                            "end": 6354
+                                        },
+                                        {
+                                            "name": "Numeral 106",
+                                            "start": 6355,
+                                            "end": 6970
+                                        },
+                                        {
+                                            "name": "Numeral 107",
+                                            "start": 6971,
+                                            "end": 7903
+                                        },
+                                        {
+                                            "name": "Numeral 108",
+                                            "start": 7904,
+                                            "end": 8192
+                                        },
+                                        {
+                                            "name": "Numeral 109",
+                                            "start": 8193,
+                                            "end": 8198
+                                        },
+                                        {
+                                            "name": "Numeral 110",
+                                            "start": 8199,
+                                            "end": 8209
+                                        },
+                                        {
+                                            "name": "Numeral 111",
+                                            "start": 8210,
+                                            "end": 8213
+                                        },
+                                        {
+                                            "name": "Numeral 112",
+                                            "start": 8214,
+                                            "end": 8226
+                                        },
+                                        {
+                                            "name": "Numeral 113",
+                                            "start": 8227,
+                                            "end": 8233
+                                        },
+                                        {
+                                            "name": "Numeral 114",
+                                            "start": 8234,
+                                            "end": 8239
+                                        },
+                                        {
+                                            "name": "Numeral 115",
+                                            "start": 8240,
+                                            "end": 8247
+                                        },
+                                        {
+                                            "name": "Numeral 116",
+                                            "start": 8248,
+                                            "end": 8256
+                                        },
+                                        {
+                                            "name": "Numeral 117",
+                                            "start": 8257,
+                                            "end": 8266
+                                        },
+                                        {
+                                            "name": "Numeral 118",
+                                            "start": 8267,
+                                            "end": 8271
+                                        },
+                                        {
+                                            "name": "Numeral 119",
+                                            "start": 8272,
+                                            "end": 8274
+                                        },
+                                        {
+                                            "name": "Numeral 120",
+                                            "start": 8275,
+                                            "end": 8279
+                                        },
+                                        {
+                                            "name": "Numeral 121",
+                                            "start": 8280,
+                                            "end": 8297
+                                        },
+                                        {
+                                            "name": "Numeral 122",
+                                            "start": 8298,
+                                            "end": 8304
+                                        },
+                                        {
+                                            "name": "Numeral 123",
+                                            "start": 8305,
+                                            "end": 8310
+                                        },
+                                        {
+                                            "name": "Numeral 124",
+                                            "start": 8311,
+                                            "end": 8312
+                                        },
+                                        {
+                                            "name": "Numeral 125",
+                                            "start": 8313,
+                                            "end": 8318
+                                        },
+                                        {
+                                            "name": "Numeral 126",
+                                            "start": 8319,
+                                            "end": 8328
+                                        },
+                                        {
+                                            "name": "Numeral 127",
+                                            "start": 8329,
+                                            "end": 8331
+                                        },
+                                        {
+                                            "name": "Numeral 128",
+                                            "start": 8332,
+                                            "end": 8338
+                                        },
+                                        {
+                                            "name": "Numeral 129",
+                                            "start": 8339,
+                                            "end": 8345
+                                        },
+                                        {
+                                            "name": "Numeral 130",
+                                            "start": 8346,
+                                            "end": 8350
+                                        },
+                                        {
+                                            "name": "Numeral 131",
+                                            "start": 8351,
+                                            "end": 8355
+                                        },
+                                        {
+                                            "name": "Numeral 132",
+                                            "start": 8356,
+                                            "end": 8359
+                                        },
+                                        {
+                                            "name": "Numeral 133",
+                                            "start": 8360,
+                                            "end": 8366
+                                        },
+                                        {
+                                            "name": "Numeral 134",
+                                            "start": 8367,
+                                            "end": 8384
+                                        },
+                                        {
+                                            "name": "Numeral 135",
+                                            "start": 8385,
+                                            "end": 8392
+                                        },
+                                        {
+                                            "name": "Numeral 136",
+                                            "start": 8393,
+                                            "end": 8410
+                                        },
+                                        {
+                                            "name": "Numeral 137",
+                                            "start": 8411,
+                                            "end": 8418
+                                        },
+                                        {
+                                            "name": "Numeral 138",
+                                            "start": 8419,
+                                            "end": 8428
+                                        },
+                                        {
+                                            "name": "Numeral 139",
+                                            "start": 8429,
+                                            "end": 8444
+                                        },
+                                        {
+                                            "name": "Numeral 140",
+                                            "start": 8445,
+                                            "end": 8455
+                                        },
+                                        {
+                                            "name": "Numeral 141",
+                                            "start": 8456,
+                                            "end": 8605
+                                        },
+                                        {
+                                            "name": "Numeral 142",
+                                            "start": 8606,
+                                            "end": 8609
+                                        },
+                                        {
+                                            "name": "Numeral 143",
+                                            "start": 8610,
+                                            "end": 9036
+                                        },
+                                        {
+                                            "name": "Numeral 144",
+                                            "start": 9037,
+                                            "end": 9038
+                                        },
+                                        {
+                                            "name": "Numeral 145",
+                                            "start": 9039,
+                                            "end": 9042
+                                        },
+                                        {
+                                            "name": "Numeral 146",
+                                            "start": 9043,
+                                            "end": 9047
+                                        },
+                                        {
+                                            "name": "Numeral 147",
+                                            "start": 9048,
+                                            "end": 9054
+                                        },
+                                        {
+                                            "name": "Numeral 148",
+                                            "start": 9055,
+                                            "end": 9453
+                                        },
+                                        {
+                                            "name": "Numeral 149",
+                                            "start": 9454,
+                                            "end": 9685
+                                        }
+                                    ]
+                                }
+                            ],
+                            "lastUpdated": "^[IVXLCDM]+\\."
+                        },
+                        "occurrences": [
+                            {
+                                "name": "DEFINITIONS: 1",
+                                "start": 4,
+                                "end": 52
+                            },
+                            {
+                                "name": "DEFINITIONS: 2",
+                                "start": 1576,
+                                "end": 1621
+                            },
+                            {
+                                "name": "DEFINITIONS: 3",
+                                "start": 3570,
+                                "end": 3609
+                            },
+                            {
+                                "name": "DEFINITIONS: 4",
+                                "start": 5464,
+                                "end": 6039
+                            },
+                            {
+                                "name": "DEFINITIONS: 5",
+                                "start": 6174,
+                                "end": 6226
+                            }
+                        ]
+                    },
+                    {
+                        "keyword": "AXIOMS:",
+                        "occurrences": [
+                            {
+                                "name": "AXIOMS: 1",
+                                "start": 53,
+                                "end": 76
+                            },
+                            {
+                                "name": "AXIOMS: 2",
+                                "start": 1622,
+                                "end": 1643
+                            },
+                            {
+                                "name": "AXIOMS: 3",
+                                "start": 6227,
+                                "end": 6233
+                            },
+                            {
+                                "name": "AXIOMS: 4",
+                                "start": 8604,
+                                "end": 8616
+                            }
+                        ]
+                    },
+                    {
+                        "keyword": "PROPOSITIONS:",
+                        "occurrences": [
+                            {
+                                "name": "PROPOSITIONS: 1",
+                                "start": 77,
+                                "end": 1564
+                            },
+                            {
+                                "name": "PROPOSITIONS: 2",
+                                "start": 1644,
+                                "end": 3513
+                            },
+                            {
+                                "name": "PROPOSITIONS: 3",
+                                "start": 3610,
+                                "end": 5463
+                            },
+                            {
+                                "name": "PROPOSITIONS: 4",
+                                "start": 6234,
+                                "end": 8479
+                            },
+                            {
+                                "name": "PROPOSITIONS: 5",
+                                "start": 8617,
+                                "end": 9685
+                            }
+                        ]
+                    }
+                ],
+                "lastUpdated": "PROPOSITIONS:"
+            },
+            "occurrences": [
+                {
+                    "name": "PART 1",
+                    "start": 0,
+                    "end": 1560
+                },
+                {
+                    "name": "PART 2",
+                    "start": 1561,
+                    "end": 3509
+                },
+                {
+                    "name": "PART 3",
+                    "start": 3510,
+                    "end": 6035
+                },
+                {
+                    "name": "PART 4",
+                    "start": 6036,
+                    "end": 8475
+                },
+                {
+                    "name": "PART 5",
+                    "start": 8476,
+                    "end": 9685
+                }
+            ]
+        }
+    ],
+    "lastUpdated": "PART"
+}

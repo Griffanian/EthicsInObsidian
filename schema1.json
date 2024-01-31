@@ -1,0 +1,38 @@
+{
+    "sections": [
+        {
+            "keyword": "PART",
+            "subsections": {
+                "sections": [
+                    {
+                        "keyword": "PREFACE:"
+                    },
+                    {
+                        "keyword": "DEFINITIONS:",
+                        "subsections": {
+                            "sections": [
+                                {
+                                    "regex": "^[IVXLCDM]+\\.",
+                                    "name": "Numeral",
+                                    "subsections": {
+                                        "sections": [
+                                            {
+                                                "keyword": "Explanation--"
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "keyword": "AXIOMS:"
+                    },
+                    {
+                        "keyword": "PROPOSITIONS:"
+                    }
+                ]
+            }
+        }
+    ]
+}
